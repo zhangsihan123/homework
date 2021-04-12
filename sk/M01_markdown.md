@@ -1,6 +1,6 @@
 1、[注册github](https://github.com/)
 
-2、markdown基础语法 ![](.\sources\markdown.png)
+2、markdown基础语法 ![](./sources/markdown.png)
 
 3.[typora](https://typora.io/)
 
