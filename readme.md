@@ -1,4 +1,4 @@
-markdown基础语法![](.\sk\sources\markdown.png)
+markdown基础语法![](./sk/sources/markdown.png)
 
 ##### 时间：2021/4/12
 ##### 作业：
